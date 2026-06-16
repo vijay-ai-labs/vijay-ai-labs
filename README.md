@@ -62,7 +62,7 @@ Building **production-grade LLM applications** for research and enterprise. Focu
 ## 📬 Get in Touch
 
 - **Email:** vijayramaraju485@gmail.com
-- **LinkedIn:** [linkedin.com/in/vijayramaraju](https://linkedin.com/in/vijayramaraju)
+- **LinkedIn:** [linkedin.com/in/vijayramaraju](https://www.linkedin.com/in/vijayramaraju-ai/)
 - **Location:** Secunderabad, Telangana, India
 
 > Open to **AI/ML Engineer**, **Applied LLM Engineer**, and **AI Research** roles.
